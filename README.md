@@ -1,7 +1,7 @@
-# book-list
-list of all the books I want to read (and have read).
+# book-list overview
+I want to keep a master list of all books I want to read, and I also want to use this space as a way to determine what I read next.
 
-## Mind dump
+## mind dump
 
 On 5/20/2026, this is the list of books currently on my mind (in no particular order):
 
